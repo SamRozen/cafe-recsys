@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Link to other projects
+input_data
